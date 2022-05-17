@@ -1,1 +1,1 @@
-# Javascript alıştırmaları Drawing App Game projesi.
+# Javascript alıştırmaları Drawing App projesi.

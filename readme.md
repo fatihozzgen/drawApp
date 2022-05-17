@@ -1,0 +1,1 @@
+# Javascript alıştırmaları Dice Rolling Game projesi.

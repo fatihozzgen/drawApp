@@ -1,1 +1,1 @@
-# Javascript alıştırmaları Dice Rolling Game projesi.
+# Javascript alıştırmaları Drawing App Game projesi.
